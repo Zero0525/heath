@@ -28,4 +28,5 @@ hs_err_pid*
 #idea document
 /.idea/
 /*/target
+/*/*/target
 *.iml
